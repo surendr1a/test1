@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 "hello this is the text file name a.txt, just written to learning the git and that's it"Extra line
 Another extra line
 Another Another extra line
+"hello this is the text file name a.txt, just written to learning the git and that's it"Extra Line.                               
 Another Another Another extra line
 Another Another Another Another extra line
 Another Another Another Another Another extra line
+=======
+"hello this is the text file name a.txt, just written to learning the git and that's it"Extra Line.                               
+>>>>>>> testing
