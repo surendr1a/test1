@@ -1,3 +1,5 @@
 simple code in the d file of last branch
 hello in the d.txt
 hello it is the another change
+
+this is the master branch change for the d.txt file 
