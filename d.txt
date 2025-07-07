@@ -1,3 +1,4 @@
+
 simple code in the d file of last branch
 
 
@@ -7,3 +8,7 @@ so more line added after the merging of master into the last branch
 
 
 again the changes in d.txt from the "last" branch lakjalzcscsc
+
+hello in the d.txt
+hello it is the another change
+
